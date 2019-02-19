@@ -68,7 +68,7 @@
 
 	<div id="menu" style="margin-bottom: 20px;">
 	<img id="icon" src="assets1.jpg" height="20" width="20">
-		<h2 id="color_menu">YouTube</h2>
+		<h2 id="color_menu">youtube baru</h2>
 	</div>
 
 	<div class="item">
